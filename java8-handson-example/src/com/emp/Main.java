@@ -56,13 +56,6 @@ public class Main {
 	}
 
 
-
-
-	
-
-
-
-
 	static ArrayList<Employee> list = new ArrayList<Employee> ();
       
 	//AddEMployee method Implementation
